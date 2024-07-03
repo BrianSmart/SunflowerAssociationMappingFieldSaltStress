@@ -54,12 +54,12 @@ For more information, see https://creativecommons.org/publicdomain/zero/1.0/
 
 **Contact**
 For questions regarding this code or data, please contact:
-Dr. Brent S. Hulke
-Research Geneticist
-Sunflower and Plant Biology Research Unit
-USDA-ARS Edward T Schafer Agricultural Research Center
-1616 Albrecht Blvd. N.
-Fargo, ND 58102
-USA
-Email: brent.hulke@usda.gov
-ORCID: 0000-0001-5380-0827
+  Dr. Brent S. Hulke
+  Research Geneticist
+  Sunflower and Plant Biology Research Unit
+  USDA-ARS Edward T Schafer Agricultural Research Center
+  1616 Albrecht Blvd. N.
+  Fargo, ND 58102
+  USA
+  Email: brent.hulke@usda.gov
+  ORCID: 0000-0001-5380-0827
