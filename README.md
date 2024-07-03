@@ -40,7 +40,7 @@ These results were used in the genome-wide association study to identify loci as
 
 **Citation**
 If you use this code or data in your research, please cite:
-[Insert paper citation here when available]
+McNellie, J.P., May, W.E., Rieseberg, L.H. & Hulke, B.S. (2024). Association studies of salinity tolerance in sunflower provide robust breeding and selection strategies under climate change. Theoretical and Applied Genetics. https://doi.org/10.1007/s00122-024-04672-3
 License
 [Insert chosen license here]
 Contact
