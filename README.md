@@ -41,8 +41,25 @@ These results were used in the genome-wide association study to identify loci as
 **Citation**
 If you use this code or data in your research, please cite:
 McNellie, J.P., May, W.E., Rieseberg, L.H. & Hulke, B.S. (2024). Association studies of salinity tolerance in sunflower provide robust breeding and selection strategies under climate change. Theoretical and Applied Genetics. https://doi.org/10.1007/s00122-024-04672-3
-License
-[Insert chosen license here]
-Contact
-For any queries regarding the code or data, please contact:
-[Insert contact information here]
+
+**License**
+This work is licensed under the Creative Commons Zero v1.0 Universal (CC0 1.0) Public Domain Dedication.
+This means that the creators of this work have waived all copyright and related rights to the fullest extent allowed by law. You are free to:
+  - Copy, modify, distribute, and perform the work
+  - Even for commercial purposes
+  - All without asking permission
+Under the following terms:
+  - No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+For more information, see https://creativecommons.org/publicdomain/zero/1.0/
+
+**Contact**
+For questions regarding this code or data, please contact:
+Dr. Brent S. Hulke
+Research Geneticist
+Sunflower and Plant Biology Research Unit
+USDA-ARS Edward T Schafer Agricultural Research Center
+1616 Albrecht Blvd. N.
+Fargo, ND 58102
+USA
+Email: brent.hulke@usda.gov
+ORCID: 0000-0001-5380-0827
