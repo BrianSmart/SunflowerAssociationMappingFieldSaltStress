@@ -5,9 +5,9 @@ The study investigates the genetic tolerance of sunflower (Helianthus annuus) to
 
 **Contents**
 R Scripts:
-  2. BLUP_ANOVA_example_OilPercentage.R: Performs BLUP (Best Linear Unbiased Prediction) analysis for oil percentage.
-  3. Kriging.R: Implements kriging to estimate soil salinity for individual plots.
-  4. outlier_removal.R: Removes outliers from the phenotypic data.
+  1. BLUP_ANOVA_example_OilPercentage.R: Performs BLUP (Best Linear Unbiased Prediction) analysis for oil percentage.
+  2. Kriging.R: Implements kriging to estimate soil salinity for individual plots.
+  3. outlier_removal.R: Removes outliers from the phenotypic data.
 
 Input CSV Files:
   1. Phenotypes_with_Salinity.csv: Contains phenotypic data with salinity measurements.
